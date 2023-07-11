@@ -1,0 +1,493 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/0148d42d-173e-4fc2-9788-3087243ced0a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.6" ;
+    skos:prefLabel "das Thema und die Hauptaussagen in audiovisuellen Texten zu vertrauten Themen verstehen, wenn relativ langsam und deutlich gesprochen wird."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/03d8a312-aa24-416f-956e-2e68e759d8c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.9" ;
+    skos:prefLabel "sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/09ba4c36-dc7f-4f21-b600-f5c0c013072d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.5" ;
+    skos:prefLabel "an routinemäßigen formellen Diskussionen über vertraute Themen teilnehmen, sofern die Punkte in überwiegend einfacher Sprache vorgebracht und/oder wiederholt werden und Gelegenheit zur Klärung besteht."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1915fa51-60d9-4352-9baf-126ddcfdcb60> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "5.4" ;
+    skos:prefLabel "in Sprachmittlungs- bzw. Mediationssituationen ihre Kompetenzen im eigenen Repertoire strategisch und zielführend in der Regel selbstständig nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1b71a937-689a-4635-8c59-51013500224e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.8" ;
+    skos:prefLabel "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um in einfachen Texten schriftlich zu interagieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1ca3d17c-b934-49a1-9007-df3268304deb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.4" ;
+    skos:prefLabel "für Ansichten, Pläne oder Handlungen, kurze Begründungen oder Erklärungen geben."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1d1df2b5-59e7-47a0-a919-65f761e3af98> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.5" ;
+    skos:prefLabel "formelle Schreiben, die inhaltlich, sprachlich und formal korrekt gestaltet sein sollen, verfassen und bei Bedarf notwendige (digitale) Hilfen nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1d6d949c-7a18-44b9-a849-c2d51ed46bb6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.7" ;
+    skos:prefLabel "ihre begrenzten Kompetenzen in den verschiedenen ihnen eventuell zur Verfügung stehenden Sprachen in der Regel selbstständig für zusammenhängende Beschreibungen und Berichte in der Zielsprache nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1f240b84-2af9-4ca9-9b15-f9b98c952bc0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.10" ;
+    skos:prefLabel "andere um Erklärung, mehr Details oder Wiederholung in digitalen Kommunikationsformen bitten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/209de9c5-b820-463b-b7d2-ca02abc02544> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.2" ;
+    skos:prefLabel "Beschreibungen eines realen oder fiktiven Ereignisses verfassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/230f1f19-e4a5-4838-9d1e-682553673254> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.11" ;
+    skos:prefLabel "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für schriftliche Interaktion in der Zielsprache nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/29022bfc-2bc9-4833-a068-525a322471b6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.8" ;
+    skos:prefLabel "neue Ausdrücke und Kombinationen von Ausdrücken einüben und ausprobieren und um Rückmeldung dazu bitten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/2c96f584-7ed1-45f4-a07f-27b3b530ec16> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.10" ;
+    skos:prefLabel "ein strukturell unkompliziertes Gespräch adressaten-, situations- und zweckangemessen beginnen, in Gang haltenund beenden."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/30237c94-5762-441c-be32-5d3270a05a88> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.7" ;
+    skos:prefLabel "in strukturell unkomplizierten, literarisch-ästhetischen Hörtexten und audiovisuellen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen und erschließen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3076dc8a-2980-45b8-9c24-de34427e21f9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.5" ;
+    skos:prefLabel "bei längeren Hörtexten und audiovisuellen Texten anhand des erfassten Themas Vorhersagen über den weiteren Inhalt treffen und diese während des Hörens anpassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/33391952-c85a-4aec-9c7f-6a06db721d38> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.11" ;
+    skos:prefLabel "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für die spontane Alltagskommunikation in der Zielsprache nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3517660d-88e5-4343-bfd0-c1d1736350d6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.7" ;
+    skos:prefLabel "beim Lesen auf ihnen vertraute (digitale) Werkzeuge in der Regel selbstständig zurückgreifen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3720354a-9773-492e-91e8-41adbdf9c974> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.1" ;
+    skos:prefLabel "strukturell unkomplizierte, zusammenhängende Texte zu vertrauten und gesellschaftlich relevanten Themen verfassen, wobei einzelne kürzere Teile in linearer Abfolge verbunden werden."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/424907c9-4277-49a2-bdcb-c58c64097323> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "5.2" ;
+    skos:prefLabel "Interaktionen voranbringen, indem sie andere Menschen einladen, ihr Wissen, ihre eigenen Erfahrungen und Sichtweisen einzubringen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/434830ee-966a-48ab-a177-c23ad2367ac4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "in persönlichen Korrespondenzen einfache Informationen von unmittelbarer Bedeutung geben oder erfragen und dabei deutlich machen, was sie für wichtig halten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/44b3ed79-a57a-4240-b755-a7582ccbe772> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.1" ;
+    skos:prefLabel "weitgehend flüssig strukturell unkomplizierte, aber zusammenhängende Beschreibungen und Darstellungen zu vertrauten Themen geben, wobei die einzelnen Punkte linear aneinandergereiht werden."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/4b88de74-cc0f-4ca2-a32d-9e99cb367243> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "5.1" ;
+    skos:prefLabel "in beide Richtungen zwischen Deutsch und der ersten Fremdsprache sprachlich und kulturell mündlich, schriftlich sowie im Wechsel der sprachlichen Repräsentationsformen auch längere Texte mitteln, wenn diese in strukturell unkomplizierter Sprache formuliert sind. Dabei sind ihnen die Kommunikations- und Interaktionsformen sowie die Themen vertraut."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/4ec62bd4-adcc-4984-b07f-0a4d5ec72463> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.4" ;
+    skos:prefLabel "in einem Alltagsgespräch klar artikulierte Standardsprache verstehen, sie müssen aber manchmal um Wiederholung oder Klärung bestimmter Wörter und Wendungen bitten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/519b7843-12a6-4cb1-9d65-71994ff97dfe> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.6" ;
+    skos:prefLabel "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für das Verfassen von zielsprachigen Texten nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/577d87a8-0269-4f87-a12d-0ada22c1a8f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.4" ;
+    skos:prefLabel "adressaten-, situations- und zweckangemessen Notizen mit einfachen, unmittelbar relevanten Informationen formulieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/59b46fcb-449a-4989-afad-ba75c9e92787> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.2" ;
+    skos:prefLabel "an mündlichen Interaktionsformen teilnehmen, die eine inhaltliche, sprachliche oder strategische Vorbereitung voraussetzen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/5dee1f24-bf00-4c36-b17d-5f41d3fa8a9b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "adressaten-, situations- und zweckangemessen in einfachen Texten zu vertrauten Themen schriftlich interagieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/634cf174-1e6d-4bea-a40b-6740dbd43252> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.7" ;
+    skos:prefLabel "(digitale) Hilfsmittel nutzen, um relativ einfache, aber ausführliche Gespräche mit persönlich bekannten Personen zu führen oder grundlegende Dienstleistungen zu erhalten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6447cfc2-6f1f-4dab-b6c2-184bd34394ba> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "Vorträge und Präsentationen verstehen und dabei zwischen Hauptaussagen und unterstützenden Details unterscheiden, wenn die Thematik vertraut und die Darstellung unkompliziert und klar strukturiert ist."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/66a35e81-1db9-41d3-86fe-92f8e93a3693> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "5.5" ;
+    skos:prefLabel "strategisch und zielführend in Sprachmittlungs- bzw. Mediationssituationen auf personale und mediale (digitale) Hilfen in der Regel selbstständig zurückgreifen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6e3a5f80-a07e-492a-986e-95809f886838> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.3" ;
+    skos:prefLabel "in einem üblichen Standardformat kurze Berichte verfassen, in denen Sachinformationen weitergegeben und Gründe für Handlungen angegeben werden."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/72a600cc-c304-40cc-8c41-91f7c0c65696> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "persönliche Korrespondenzen verfassen und darin detailliert über Erfahrungen, Gefühle, Ereignisse, Meinungen berichten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/79982006-66da-40a9-8410-f40e82862023> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.1" ;
+    skos:prefLabel "strukturell unkomplizierte Korrespondenz zu vertrauten Themen einschließlich der verwendeten Umgangsformen verstehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/849e3336-e8a6-48ec-941a-80645d94ae50> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.5" ;
+    skos:prefLabel "vorbereitete Präsentationen zu vertrauten Themen in verschiedenen Kommunikationsformen so klar und präzise vortragen, dass man dieser meist mühelos folgen kann."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/84f62e86-a7d8-418e-9716-460930215aa4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "5.3" ;
+    skos:prefLabel "einfache Gespräche für Menschen verschiedener Herkunft durch Sprachmittlung sicherstellen. Sie sind sich dabei der eventuellen herkunftsbedingten Unterschiede und Verständnisschwierigkeiten zwischen den Menschen bewusst."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8d3efe77-f88e-447f-863c-dfb321272613> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.3" ;
+    skos:prefLabel "die Hauptaspekte einer Idee oder eines Problems hinreichend genau erklären."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8de8f11e-ca58-4878-a6c5-4b91ade1e430> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.5" ;
+    skos:prefLabel "in strukturell unkomplizierten literarisch-ästhetischen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8e9f5a83-3fe0-4b0d-a42e-61de15870d8d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.2" ;
+    skos:prefLabel "in strukturell unkomplizierten Gebrauchstexten wichtige Informationen auffinden und verstehen sowie zum Lösen einer Aufgabe Informationen aus verschiedenen Texten zusammentragen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/97ee1780-b807-40c3-908e-001483eb819a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.10" ;
+    skos:prefLabel "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse und erlernten Strategien in der Regel selbstständig aktivieren, um zielsprachige Texte zu verstehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9ad0b556-8be7-4c7c-9130-0281c9f1d35d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.3" ;
+    skos:prefLabel "klar formulierte Anleitungen, Hinweise oder Vorschriften verstehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9dd54727-3551-4eaa-a841-f6c5c6ce3fb5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.2" ;
+    skos:prefLabel "auch in längeren Hörtexten Mitteilungen zu konkreten Themen verstehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/a0c641a0-bc24-4531-99f2-9a5edd8436b3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.7" ;
+    skos:prefLabel "in der Regel selbständig erklären, warum bestimmte Teile oder Aspekte eines literarisch-ästhetischen Textes für sie von besonderem Interesse sind."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/a7007526-f8a7-4d25-9b41-8fc571b2c5fe> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.1.6" ;
+    skos:prefLabel "Beitrag zu einer Online-Diskussion über ein vertrautes Thema formulieren und individuell und weitgehend detailliert auf die Kommentare anderer eingehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/aeed7bd5-c965-428f-8ccc-18a50f68f2f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.6" ;
+    skos:prefLabel "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um zusammenhängende mündliche Äußerungen zu vertrauten Themen zu verfassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b40b7a98-f5ea-4914-9c3f-87f329338a17> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.8" ;
+    skos:prefLabel "die Bedeutung unbekannter Wörter in einem Text aus ihren Bestandteilen und dem Kontext ableiten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b464d4d2-2a9b-4210-bcdd-541db63aad2c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.3" ;
+    skos:prefLabel "ein strukturell unkompliziertes Gespräch auch ohne Vorbereitung unter Berücksichtigung der wichtigsten Höflichkeitskonventionen spontan führen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b77c3fb1-7691-4f63-918f-ca23189237b1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.9" ;
+    skos:prefLabel "sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b97dba1d-5385-46c9-a06f-61c22310dd9f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.6" ;
+    skos:prefLabel "das eigene emotionale Erleben eines strukturell unkomplizierten literarisch-ästhetischen Texts sowie die Eigenschaften und Gefühle einer literarischen Figur erfassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/bebcc72a-c642-4b11-b382-e9564bc32ae3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.4" ;
+    skos:prefLabel "strukturell unkomplizierte Sachtexten zu vertrauten Themen verstehen und dabei die Hauptaussagen erkennen und Einzelinformationen erfassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/c06a91cf-b316-4be0-b4ec-632f242adb60> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.2.2" ;
+    skos:prefLabel "zu verschiedenen vertrauten Themen des eigenen Interessenbereichs strukturell unkomplizierte Beschreibungen oder Berichte geben."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/c32f5934-6636-45b9-81c1-4ce26edd1484> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "in strukturell unkomplizierten Hörtexten zu vertrauten Themen das Thema erfassen und die Hauptaussagen und Einzelinformationen verstehen, wenn in deutlich artikulierter Standardsprache oder in einer vertrauten Varietät gesprochen wird."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cca2c767-9fd8-4888-b0cc-bb124bb5f384> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.6" ;
+    skos:prefLabel "unkomplizierte Sachinformationen über vertraute Themen adressaten-, situations- und zweckangemessen weitergeben und Informationsfragen dazu detailliert beantworten."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/d79ba7a0-81c5-4b91-bb3f-d8b6e7159fb7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.4" ;
+    skos:prefLabel "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um relativ einfache zusammenhängende Texte zu vertrauten Themen zu verfassen und zu revidieren/korrigieren."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/deb566fc-fa83-4a26-9c22-f8245b0c1e54> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "4.2.5" ;
+    skos:prefLabel "das eigene Repertoire an sprachlichen Mitteln mit Hilfe (digitaler) Werkzeuge in der Regel selbstständig erweitern."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/e5a5bba5-4fe9-4e97-bba5-ad75c502ff45> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "2.9" ;
+    skos:prefLabel "mit Hilfe von Hinweisen in Texten und der Aufgabe Vorhersagen über den weiteren Inhalt treffen und diese während des Lesens anpassen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/e7aa87fa-d72c-40db-a702-31e5a92eb816> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "das Thema und die Hauptaussagen von längeren Gesprächen zwischen Anderen verstehen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/eb303722-7b23-4f41-90c5-853d0c8159c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "1.8" ;
+    skos:prefLabel "auf ihnen vertraute (digitale) Werkzeuge bei der Rezeption von Hörtexten und audiovisuellen Texten in der Regel selbstständig zurückgreifen."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/fbb73af3-b375-44bf-b263-540105d574f7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "spontan und flüssig an Gesprächen zu vertrauten und gesellschaftlich relevanten Themen teilnehmen, persönliche Meinungen ausdrücken und Argumente austauschen über Themen, die vertraut sind."@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/afa225a5-7c71-403a-a351-97dc885fe005> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:definition "Sprechen ist auf die Produktion mündlicher Texte ausgerichtet. Dabei ist Sprechen stets – selbst in der Form eines Vortrags – ein interaktiver Vorgang, da die Reaktionen eines Publikums u.a. eingeplant, antizipiert, aufgegriffen werden. Im Folgenden wird jedoch unterschieden zwischen mündlicher Interaktion als Form dialogischen Sprechens und mündlicher Produktion als Form monologischen Sprechens, da diese jeweils unterschiedliche Teilkompetenzen und Strategien erfordern. Beide Formen mündlicher Kommunikation umfassen narrative, expositorische und argumentative Genres, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Diese Kommunikation findet sowohl face-to-face als auch im digitalen Raum statt. So sind durch den Einsatz digitaler Medien neue Formen der Mündlichkeit entstanden."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> ;
+    skos:notation "3" ;
+    skos:prefLabel "Sprechen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/f01d78cd-ed8a-4585-bae8-f6e37b9877e6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:definition "Schreiben ist auf die Produktion schriftlicher Texte ausgerichtet. Dabei ist es in der Regel eine auf die zwischenmenschliche Kommunikation zielende Aktivität, die allerdings auch individuellen Lern-, Erkenntnis- und Reflexionsprozessen dienen kann. Es wird jedoch im Folgenden zwischen schriftlicher Interaktion (Kommunikation zwischen zwei oder mehreren Partnern) und schriftlicher Produktion (Verfassen von Texten, die keine direkte Reaktion beabsichtigen) unterschieden, da sie unterschiedliche Teilkompetenzen und Strategien erfordern. Die schriftliche Kommunikation umfasst unterschiedliche Genres, d.h. diskurse Textformen, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Durch die digitale Transformation hat die schriftliche Kommunikation an Bedeutung gewonnen und neue (multimodale) Textsorten sind entstanden."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> ;
+    skos:notation "4" ;
+    skos:prefLabel "Schreiben"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:definition "Mediation ist ein interaktiver Prozess, mit dem Kommunikation, Verständnis und Kooperation zwischen Personen ermöglicht und aufrechterhalten werden. Dieser Prozess vollzieht sich zum Beispiel beim Mitteln von Textinhalten und Konzepten sowie beim Ermöglichen und Gestalten von Kommunikation zwischen Menschen, die aufgrund ihrer Herkunft und Erfahrungen unterschiedliche individuelle, soziale, kulturelle oder sprachliche Grundlagen und Kompetenzen haben. Diese können zu verschiedenen kommunikativ-interaktiven Voraussetzungen und folglich unterschiedlichen Verstehensmöglichkeiten führen und eine Verständigung beeinträchtigen. Sprachmittlung umfasst die sprachlichen Prozesse der Mediation. Sprachmittlung besteht in der adressaten-, situations- und zweckangemessenen Übertragung von Informationen aus einer Sprache A in eine Sprache B für andere Personen, die anderenfalls keinen Zugang zu diesen Informationen hätten. Damit ist die Sprachmittlung eine interaktive kommunikative Kompetenz, die auf andere (fremdsprachliche) Kompetenzbereiche zurückgreift. Die Anforderungen ergeben sich aus der Vertrautheit mit den zu mittelnden Informationen, der Richtung, in der die Sprachmittlung erfolgt sowie ggf. dem Wechsel zwischen verschiedenen sprachlichen Repräsentationsformen (z. B. vom Hören zum Schreiben, vom Lesen zum Sprechen)."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1915fa51-60d9-4352-9baf-126ddcfdcb60>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/424907c9-4277-49a2-bdcb-c58c64097323>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/4b88de74-cc0f-4ca2-a32d-9e99cb367243>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/66a35e81-1db9-41d3-86fe-92f8e93a3693>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/84f62e86-a7d8-418e-9716-460930215aa4> ;
+    skos:notation "5" ;
+    skos:prefLabel "Mediation / Sprachmittlung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/56f3b378-7c25-4a34-83db-13b2bccabfa2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/f01d78cd-ed8a-4585-bae8-f6e37b9877e6> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/209de9c5-b820-463b-b7d2-ca02abc02544>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3720354a-9773-492e-91e8-41adbdf9c974>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/519b7843-12a6-4cb1-9d65-71994ff97dfe>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6e3a5f80-a07e-492a-986e-95809f886838>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/d79ba7a0-81c5-4b91-bb3f-d8b6e7159fb7>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/deb566fc-fa83-4a26-9c22-f8245b0c1e54> ;
+    skos:notation "4.2" ;
+    skos:prefLabel "Schriftliche Produktion"@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cb2bfeb8-2762-4fa3-9a44-87da3894bc41> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/afa225a5-7c71-403a-a351-97dc885fe005> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1ca3d17c-b934-49a1-9007-df3268304deb>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1d6d949c-7a18-44b9-a849-c2d51ed46bb6>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/44b3ed79-a57a-4240-b755-a7582ccbe772>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/849e3336-e8a6-48ec-941a-80645d94ae50>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8d3efe77-f88e-447f-863c-dfb321272613>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/aeed7bd5-c965-428f-8ccc-18a50f68f2f3>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/c06a91cf-b316-4be0-b4ec-632f242adb60> ;
+    skos:notation "3.2" ;
+    skos:prefLabel "Mündliche Produktion"@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:definition "Hörverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption von auditiv vermittelten Texten im Mittelpunkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch die Merkmale der Hörtexte geprägt (z. B. Flüchtigkeit des Gesagten, Phänomene gesprochener Sprache wie unvollständige Sätze und ggfs. undeutliche Aussprache) und hängen außerdem von den konkreten Verstehensabsichten ab (z. B. das Thema erfassen, die eher implizit vermittelte Meinung der sprechenden Person zum Thema verstehen, sich eine ganz bestimmte Information merken). Audiovisuelles Verstehen ist, wie das Hörverstehen, auf die Verarbeitung von (eher) mündlichen Texten ausgerichtet. Die Modalität der zu verarbeitenden Informationen wird durch ein visuelles Medium erweitert, ggf. auch durch weitere Medien, insbesondere in digital vermittelten mündlichen Texten. Diese Art des Textverstehens entspricht demnach der Fähigkeit, mit lautlich, sprachlich und visuell kodierten Texten gleich zeitig umzugehen."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/0148d42d-173e-4fc2-9788-3087243ced0a>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/30237c94-5762-441c-be32-5d3270a05a88>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3076dc8a-2980-45b8-9c24-de34427e21f9>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6447cfc2-6f1f-4dab-b6c2-184bd34394ba>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9dd54727-3551-4eaa-a841-f6c5c6ce3fb5>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/c32f5934-6636-45b9-81c1-4ce26edd1484>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/e7aa87fa-d72c-40db-a702-31e5a92eb816>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/eb303722-7b23-4f41-90c5-853d0c8159c1> ;
+    skos:notation "1" ;
+    skos:prefLabel "Hörverstehen und audiovisuelles Verstehen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:definition "Das Leseverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption schriftlich vermittelter Texte im Mittel punkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch Merkmale der Texte (z. B. Länge, sprachliche Komplexität, Struktur oder Genre) und durch spezifische Verstehensabsichten (z. B. das Thema erfassen, eine bestimmte Information auffinden) geprägt."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/3517660d-88e5-4343-bfd0-c1d1736350d6>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/79982006-66da-40a9-8410-f40e82862023>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8de8f11e-ca58-4878-a6c5-4b91ade1e430>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/8e9f5a83-3fe0-4b0d-a42e-61de15870d8d>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/97ee1780-b807-40c3-908e-001483eb819a>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9ad0b556-8be7-4c7c-9130-0281c9f1d35d>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b40b7a98-f5ea-4914-9c3f-87f329338a17>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b97dba1d-5385-46c9-a06f-61c22310dd9f>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/bebcc72a-c642-4b11-b382-e9564bc32ae3>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/e5a5bba5-4fe9-4e97-bba5-ad75c502ff45> ;
+    skos:notation "2" ;
+    skos:prefLabel "Leseverstehen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b6e017af-ddc5-4f89-b3d5-2a9ca2a78c93> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/f01d78cd-ed8a-4585-bae8-f6e37b9877e6> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/03d8a312-aa24-416f-956e-2e68e759d8c1>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1b71a937-689a-4635-8c59-51013500224e>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1d1df2b5-59e7-47a0-a919-65f761e3af98>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/1f240b84-2af9-4ca9-9b15-f9b98c952bc0>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/230f1f19-e4a5-4838-9d1e-682553673254>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/434830ee-966a-48ab-a177-c23ad2367ac4>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/577d87a8-0269-4f87-a12d-0ada22c1a8f3>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/5dee1f24-bf00-4c36-b17d-5f41d3fa8a9b>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/72a600cc-c304-40cc-8c41-91f7c0c65696>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/a0c641a0-bc24-4531-99f2-9a5edd8436b3>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/a7007526-f8a7-4d25-9b41-8fc571b2c5fe> ;
+    skos:notation "4.1" ;
+    skos:prefLabel "Schriftliche Interaktion"@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/da33db60-cc86-40ee-8393-6bbd691e3a12> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/afa225a5-7c71-403a-a351-97dc885fe005> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/09ba4c36-dc7f-4f21-b600-f5c0c013072d>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/29022bfc-2bc9-4833-a068-525a322471b6>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/2c96f584-7ed1-45f4-a07f-27b3b530ec16>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/33391952-c85a-4aec-9c7f-6a06db721d38>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/4ec62bd4-adcc-4984-b07f-0a4d5ec72463>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/59b46fcb-449a-4989-afad-ba75c9e92787>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/634cf174-1e6d-4bea-a40b-6740dbd43252>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b464d4d2-2a9b-4210-bcdd-541db63aad2c>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/b77c3fb1-7691-4f63-918f-ca23189237b1>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/cca2c767-9fd8-4888-b0cc-bb124bb5f384>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/fbb73af3-b375-44bf-b263-540105d574f7> ;
+    skos:notation "3.1" ;
+    skos:prefLabel "Mündliche Interaktion"@de .
+
+<https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Bis zum Mittleren Schulabschluss erreichen die Schülerinnen und Schüler im Wesentlichen das Niveau B1 des Gemeinsamen europäischen Referenzrahmens."@de ;
+    dct:title "erste Fremdsprache MSA_Funktionale kommunikative Kompetenz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/afa225a5-7c71-403a-a351-97dc885fe005>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/f01d78cd-ed8a-4585-bae8-f6e37b9877e6> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/12fe0105-1290-49aa-9896-340da8f7f5de>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/6f7060d2-069f-486f-9a4d-d34f82e0187c>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/9b3268e2-10aa-4455-a1cc-26fbe848a08d>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/afa225a5-7c71-403a-a351-97dc885fe005>,
+        <https://w3id.org/iqb/bista23FrMSA/funktionalekommunikativekompetenz/f01d78cd-ed8a-4585-bae8-f6e37b9877e6> ;
+    skos:prefLabel "Funktionale kommunikative Kompetenz"@de .
+

@@ -1,0 +1,63 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/5b3e5ef4-92f3-42e4-9f27-a63140710969> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/62a23119-5e71-471d-8b68-e9f235f494df> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/72e0c7e9-f99b-4555-a57d-58db4764625e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "6" ;
+    skos:prefLabel "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/7a4d8244-807b-49b2-b43d-1ea4b56e9ee2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "4" ;
+    skos:prefLabel "sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b30a1d11-108b-4ac0-819a-b455bde3e0b7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b51adf50-3398-41fd-b146-09b11d5cc950> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Sprachbewusstheit beruht auf Wissen über Struktur und Gebrauch der Fremdsprache und anderer Sprachen. In mündlichen und schriftlichen Kommunikationsformen zeigt sich Sprachbewusstheit in der Fähigkeit der Beteiligten, ihre Mitteilungsabsichten sprachlich korrekt und pragmatisch angemessen zu gestalten. Bei der Rezeption von Texten ist Sprachbewusstheit notwendig, um über den Sprachgebrauch nachzudenken, Vergleiche anzustellen und die so gewonnenen Erkenntnisse beim Entwickeln des Textverständnisses zu nutzen. In interaktiven und auf die Produktion von Texten ausgerichteten kommunikativen Situationen ermöglicht die Sprachbewusstheit die Reflexion des (eigenen) Sprachhandelns. Die reflexive Dimension der Kompetenz ist von fundamentaler Bedeutung für das selbstgesteuerte Fremdsprachenlernen und die Entwicklung individueller Mehrsprachigkeit."@de ;
+    dct:title "erste Fremdsprache MSA_Sprachbewusstheit"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/5b3e5ef4-92f3-42e4-9f27-a63140710969>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/62a23119-5e71-471d-8b68-e9f235f494df>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/72e0c7e9-f99b-4555-a57d-58db4764625e>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/7a4d8244-807b-49b2-b43d-1ea4b56e9ee2>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b30a1d11-108b-4ac0-819a-b455bde3e0b7>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b51adf50-3398-41fd-b146-09b11d5cc950> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/5b3e5ef4-92f3-42e4-9f27-a63140710969>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/62a23119-5e71-471d-8b68-e9f235f494df>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/72e0c7e9-f99b-4555-a57d-58db4764625e>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/7a4d8244-807b-49b2-b43d-1ea4b56e9ee2>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b30a1d11-108b-4ac0-819a-b455bde3e0b7>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/b51adf50-3398-41fd-b146-09b11d5cc950> ;
+    skos:prefLabel "Sprachbewusstheit"@de .
+

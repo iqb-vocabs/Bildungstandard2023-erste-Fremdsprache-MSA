@@ -1,0 +1,63 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/0a6ad874-7c26-43af-be0f-911dae537e1a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "5" ;
+    skos:prefLabel "ihr Erstverstehen auf der Grundlage von knappen Rückmeldungen in der Regel selbstständig kritisch reflektieren, relativieren und ggf. revidieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/1098b704-53a5-4b46-8210-b59d1a40ebbd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "4" ;
+    skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen aufgabenbezogen bzw. zweckgerichtet in ein anderes Genre überführen. Sie können z. B. allgemeine Trends, die in einfachen Diagrammen dargestellt sind, mündlich bzw. schriftlich beschreiben und interpretieren, obgleich ein begrenzter Wortschatz gelegentlich Formulierungsprobleme verursacht."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/5e63740f-b39b-490d-b08d-173ef00e4fcb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "6" ;
+    skos:prefLabel "auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/a158a23a-4385-452b-ac0a-b1982c722065> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter, auch digitaler Kommunikations- und Interaktionsformen in eigenen Texten aufgabenbezogen bzw. zweckgerichtet in der Regel selbstständig nutzen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/edc69594-6fe9-48bc-9617-3082fd8df115> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "1" ;
+    skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/f9204d77-230a-4e79-8275-95dc80022a52> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Text- und Medienkompetenz umfasst rezeptive, produktive, interaktive und mittelnde Aktivitäten in der Auseinandersetzung mit kontinuierlichen und diskontinuierlichen Texten in ihren unterschiedlichen sprachlichen Repräsentationsformen (phonisch, graphisch, Mischformen) und medialen Erscheinungen. Text- und Medienkompetenz beinhaltet entsprechend auf der rezeptiven Ebene die Fähigkeit, Texte selbstständig, zielbezogen sowie in ihren historischen, sozialen und medialen Kontexten zu verstehen, und auf der produktiven Ebene die Fähigkeit, Texte zu analysieren und zu interpretieren. Text- und Medienkompetenz umfasst überdies die Fähigkeit, eigene Texte zu produzieren und dabei auf medienspezifisches Wissen über die Texterstellung, deren Bedingungen und Techniken sowie auf Wissen über die Wirkung von Texten und die ihrer medialen Gestaltung zurückzugreifen. Text- und Medienkompetenz ist eine komplexe, integrative Kompetenz, zu deren Vermittlung und zu deren Aneignung alle Schulfächer – und damit auch der Fremdsprachenunterricht – beitragen. Die literarisch-ästhetische Kompetenz erfährt im Zusammenhang mit dem Fremdsprachenunterricht eine besondere Bedeutung, die sich u.a. aus dem Auftrag des Fremdsprachen unterrichts ergibt, zur kulturellen Bildung beizutragen. Die sprachspezifische Ausprägung der Text- und Medienkompetenz ist u.a. abhängig vom jeweils erreichten Kompetenzniveau in der funktionalen kommunikativen Kompetenz in dieser Sprache. Text- und Medienkompetenz ist eng mit der Sprachbewusstheit und der digitalen Kompetenz in fremdsprachenspezifischen Anwendungskontexten verbunden."@de ;
+    dct:title "erste Fremdsprache MSA_Text- und Medienkompetenz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/0a6ad874-7c26-43af-be0f-911dae537e1a>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/1098b704-53a5-4b46-8210-b59d1a40ebbd>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/5e63740f-b39b-490d-b08d-173ef00e4fcb>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/a158a23a-4385-452b-ac0a-b1982c722065>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/edc69594-6fe9-48bc-9617-3082fd8df115>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/f9204d77-230a-4e79-8275-95dc80022a52> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/0a6ad874-7c26-43af-be0f-911dae537e1a>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/1098b704-53a5-4b46-8210-b59d1a40ebbd>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/5e63740f-b39b-490d-b08d-173ef00e4fcb>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/a158a23a-4385-452b-ac0a-b1982c722065>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/edc69594-6fe9-48bc-9617-3082fd8df115>,
+        <https://w3id.org/iqb/bista23FrMSA/textundmedienkompetenz/f9204d77-230a-4e79-8275-95dc80022a52> ;
+    skos:prefLabel "Text- und Medienkompetenz"@de .
+

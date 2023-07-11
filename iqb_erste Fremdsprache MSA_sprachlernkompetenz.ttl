@@ -1,0 +1,72 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/1c0036d3-d5e8-4e80-a4de-f48aca8663bf> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "die ihnen zur Verfügung stehenden sprachlichen Mittel in der Regel selbstständig reflektieren und diese durch den Einsatz von Strategien erweitern und sichern."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/51ef3339-4e74-42aa-a426-b7bf3cc76b1a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "1" ;
+    skos:prefLabel "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/9dd1132d-e272-4b62-a306-c73f16b1896e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "6" ;
+    skos:prefLabel "(digitale) Hilfsmittel zur Optimierung ihrer Sprachlernprozesse in der Regel selbstständig nutzen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/a73c0166-dd95-4498-b2f5-5c81fabf4b88> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "7" ;
+    skos:prefLabel "die in einer Sprache/anderen Sprachen verfügbaren Kenntnisse und Erfahrungen aus dem Erlernen anderer Sprachen zur Optimierung ihrer Sprachlernprozesse in der Regel selbstständig nutzen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/b7a18c28-119d-465a-9358-d0736836e878> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "ihr Sprachlernverhalten und ihre Sprachlernprozesse (inklusive der genutzten Strategien) in der Regel selbstständig reflektieren und optimieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/c59093cc-963b-4b2a-ad8d-ee98137922db> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "4" ;
+    skos:prefLabel "eigene rezeptive, produktive, interaktive und mittelnde Kompetenzen (inkl. des Verfügens über entsprechende sprachliche Mittel) in der Regel selbstständig selbst evaluieren und eigene Lernziele ggf. ändern und neu planen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/f8f65caf-6a76-4cd7-a3d3-cc9290771151> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> ;
+    skos:notation "5" ;
+    skos:prefLabel "sind sich ihrer Emotionen und Motivationen beim Fremdsprachenlernen bewusst und können diese in der Regel selbstständig regulieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Sprachlernkompetenz beinhaltet die Fähigkeit und Bereitschaft, das eigene Sprachenlernen selbst zu steuern bzw. zu regulieren, wobei die Schülerinnen und Schüler sowohl auf ihr potenzielles mehrsprachiges Wissen wie auch auf individuelle Sprachlernerfahrungen zurückgreifen und somit z. B. Kenntnisse aus anderen Sprachen und erlernte Strategien reflektieren und für den Erwerb anderer Sprachen nutzen. Sprachlernkompetenz zeigt sich erstens in der Beobachtung und Evaluation der eigenen Sprachlernmotivation, -prozesse und -ergebnisse sowie zweitens in der Bereitschaft und Fähigkeit, begründete Konsequenzen daraus zu ziehen. Sie zeigt sich drittens im Verfügen über konkrete sprachbezogene Lernstrategien und Techniken des reflexiven Lernens. Sprachlernkompetenz ist eine prozessbezogene Kompetenz zur Förderung funktionaler kommunikativer Kompetenz, Text- und Medienkompetenz, interkultureller Kompetenz sowie plurilingualer Kompetenz."@de ;
+    dct:title "erste Fremdsprache MSA_Sprachlernkompetenz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/1c0036d3-d5e8-4e80-a4de-f48aca8663bf>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/51ef3339-4e74-42aa-a426-b7bf3cc76b1a>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/9dd1132d-e272-4b62-a306-c73f16b1896e>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/a73c0166-dd95-4498-b2f5-5c81fabf4b88>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/b7a18c28-119d-465a-9358-d0736836e878>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/c59093cc-963b-4b2a-ad8d-ee98137922db>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/f8f65caf-6a76-4cd7-a3d3-cc9290771151> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/1c0036d3-d5e8-4e80-a4de-f48aca8663bf>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/51ef3339-4e74-42aa-a426-b7bf3cc76b1a>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/9dd1132d-e272-4b62-a306-c73f16b1896e>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/a73c0166-dd95-4498-b2f5-5c81fabf4b88>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/b7a18c28-119d-465a-9358-d0736836e878>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/c59093cc-963b-4b2a-ad8d-ee98137922db>,
+        <https://w3id.org/iqb/bista23FrMSA/sprachlernkompetenz/f8f65caf-6a76-4cd7-a3d3-cc9290771151> ;
+    skos:prefLabel "Sprachlernkompetenz"@de .
+
